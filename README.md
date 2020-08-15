@@ -1,4 +1,4 @@
-# SSCAM_supplements
+# SS-CAM
 
 This repository contains a few of the many files used for our paper "SS-CAM: Smoothed Score-CAM for Sharper Visual Feature Localization"
 
